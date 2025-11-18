@@ -1,7 +1,9 @@
 # Báo Cáo Bài Tập: Tối Ưu Hóa Truy Vấn SQL (SQL Optimization)
 
-**Sinh viên:** [Lường Văn Tâm
+**Sinh viên:** Lường Văn Tâm
+
 **Mã sinh viên:** 22001349  
+
 **Dataset:** Million Song Dataset (Subset 10k songs)
 
 ## 1. Giới thiệu
@@ -28,7 +30,7 @@ Dưới đây là bảng so sánh thời gian thực thi (Execution Time) trư�
 
 ### Bằng chứng thực nghiệm (Screenshot)
 
-![[Pasted image 20251118175810.png]]
+![Kết quả benchmark](result.png)
 
 ## 4. Kết luận
 Qua thí nghiệm trên dataset thực tế, ta thấy việc sử dụng **Index**, **Covering Index** và **lọc dữ liệu sớm (Filter Early)** giúp cải thiện tốc độ truy vấn đáng kể, đặc biệt là trong các thao tác gom nhóm (Group By).
