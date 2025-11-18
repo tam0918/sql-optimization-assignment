@@ -1,7 +1,9 @@
 # Báo Cáo Bài Tập: Tối Ưu Hóa Truy Vấn SQL (SQL Optimization)
 
-**Sinh viên:** [Lường Văn Tâm
+**Sinh viên:** Lường Văn Tâm
+
 **Mã sinh viên:** 22001349  
+
 **Dataset:** Million Song Dataset (Subset 10k songs)
 
 ## 1. Giới thiệu
